@@ -36,11 +36,12 @@ I am an Infrastructure & Systems Engineer based in Minas Gerais, Brazil, with ha
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ <a href="https://github.com/lzzip/Shelf">Shelf (Penta-Harness)</a></h3>
+      <h3 align="center">🏛️ Shelf (Penta-Harness)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Architecture-Penta--Harness-blueviolet?style=flat-square" alt="Penta-Harness"/>
         <img src="https://img.shields.io/badge/Protocol-MCP-green?style=flat-square" alt="MCP"/>
         <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" alt="Python"/>
+        <img src="https://img.shields.io/badge/Access-Private%20Lab-grey?style=flat-square" alt="Private"/>
       </p>
       <p>
         Universal modular catalog & project scaffolder for AI-assisted engineering. Features <b>15 specialized agents</b>, <b>12 skills</b>, <b>12 workflows</b>, Model Context Protocol (MCP) servers, and a zero-dependency local web app for 1-click project scaffolding across Gemini, Claude Code, and ChatGPT.
@@ -52,11 +53,12 @@ I am an Infrastructure & Systems Engineer based in Minas Gerais, Brazil, with ha
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 <a href="https://github.com/lzzip/game-lab">Game Lab (Arcade 2D/3D)</a></h3>
+      <h3 align="center">🎮 Game Lab (Arcade 2D/3D)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Graphics-WebGL%20%2F%20Canvas-orange?style=flat-square" alt="WebGL"/>
         <img src="https://img.shields.io/badge/3D-Three.js-black?style=flat-square" alt="Three.js"/>
         <img src="https://img.shields.io/badge/FPS-60%20Solid-emerald?style=flat-square" alt="60 FPS"/>
+        <img src="https://img.shields.io/badge/Access-Private%20Lab-grey?style=flat-square" alt="Private"/>
       </p>
       <p>
         Multi-game Web Arcade studio engineered with decoupled delta-time physics and Web Audio API procedural synthesis. Built with high-performance standalone architectures and spec-driven development (OpenSpec).
